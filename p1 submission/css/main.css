@@ -1,0 +1,45 @@
+body{
+    max-width:100%;
+    width:100%;
+    font-family: 'Roboto', sans-serif;
+    color:#5E604F;
+}
+
+img{
+    max-width:100%;
+    width:100%;
+    height:auto;
+}
+
+h1{
+	font-size: 56px;
+	font-weight:100;
+}
+
+h2{
+	font-size:34px;
+}
+
+h3{
+	font-size: 36px;
+	color:#BCBBBB;
+}
+
+h4{
+	font-size:20px;
+}
+
+p{
+	font-weight: 100;
+}
+
+hr{
+	border-top:5px solid #ABABA7;
+}
+
+.title-logo{
+	max-width: 100px;
+    max-height:100px;
+	margin-top: 35px;
+}
+
